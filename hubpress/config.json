@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "akshayarora2009",
-    "repositoryName": "akshayarora2009.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"akshayarora2009","repositoryName":"akshayarora2009.github.io","branch":"master"},"site":{"title":"Akshay Arora","description":"Blog of a developer","url":"https://akshayarora2009.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//akshayarora2009.github.io/themes/Casper"}}
